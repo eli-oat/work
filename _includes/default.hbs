@@ -5,11 +5,19 @@
 </head>
 <body>
 
-    {{#if content}}
-        <main>
-            {{{content}}}
-        </main>
-    {{/if}}
+    <div class="container">
+        <nav>
+            <a href="/">&laquo;Back</a>
+        </nav>
+            <h2 style="color: {{color}}">{{title}}</h2>
+            {{#if content}}
+            <section>
+                {{{content}}}
+            </section>
+            {{/if}}
+    </section>
+
+    {{> footer}}
 
 </body>
 </html>
