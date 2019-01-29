@@ -4,20 +4,17 @@
     {{> head}}
 </head>
 <body>
-
     <div class="container">
         <nav>
-            <a href="/">&laquo;Back</a>
+            <a href="/" title="Return to main page.">&laquo;Back</a>
         </nav>
-            <h2 style="color: {{color}}">{{title}}</h2>
-            {{#if content}}
-            <section>
-                {{{content}}}
-            </section>
-            {{/if}}
-    </section>
-
-    {{> footer}}
-
+        <h2 style="color: {{color}}">{{title}}</h2>
+	{{#if content}}
+	<section>
+	  {{{content}}}
+	</section>
+	{{/if}}
+	{{> footer}}
+    </div>
 </body>
 </html>

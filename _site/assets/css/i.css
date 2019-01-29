@@ -60,6 +60,10 @@ section a {
     color: inherit
 }
 
+section p {
+    line-height: 1.35em;
+}
+
 .container {
     padding: 1em;
     max-width: 18em;
