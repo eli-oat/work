@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Generate a mostly random UUID</title>
+</head>
+
+<body>
+    <div id="uuid"></div>
+    <script>
+        // generate a more or less random UUID
+        function uuidv4() {
+        return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+            var r = Math.random() * 16 | 0,
+            v = c == 'x' ? r : (r & 0x3 | 0x8);
+            return v.toString(16);
+        });
+        }
+        
+        // place the UUID into the DOM
+        var container = document.getElementById('uuid');
+        container.innerHTML = uuidv4();
+    </script>
+</body>
+
+</html>
