@@ -17,7 +17,7 @@ If you have questions about working with me, or my rates, take a look here  &mda
 
 I love doing this work, and am passionate about making sure I do it well. Becuase of this, I can't always say "yes," but I do always try to help.
 
-Looking forward to hearing from you &mdash; [work *at* eli *dot* li](mailto:work@eli.li)
+Looking forward to hearing from you &mdash; [work at eli dot li](mailto:work@eli.li)
 
 Sincerely,    
 &ndash; Eli
