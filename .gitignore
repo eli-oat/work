@@ -2,4 +2,5 @@
 */.DS_Store
 /_site
 _site/*
+/node_modules
 deploy.config

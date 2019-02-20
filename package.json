@@ -1,0 +1,27 @@
+{
+  "name": "work",
+  "version": "4.0.0",
+  "description": "A website",
+  "scripts": {
+    "build": "npx eleventy",
+    "watch": "npx eleventy --watch",
+    "debug": "DEBUG=* npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eli-oat/work"
+  },
+  "author": {
+    "name": "Eli Mellen",
+    "url": "https://beardandbeanie.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eli-oat/work/issues"
+  },
+  "homepage": "https://github.com/eli-oat/work#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.7.1"
+  },
+  "dependencies": {}
+}
