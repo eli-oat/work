@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/eli-oat/work#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.7.1"
-  },
-  "dependencies": {}
+    "@11ty/eleventy": "^0.3.3"
+  }
 }
