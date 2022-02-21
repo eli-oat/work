@@ -8,15 +8,15 @@ color: deeppink
 ## Per hour
 
 - ### Web development
-    - Static site (something like this website), **$32/hour**
+    - Static site (something like this website), **$36/hour**
     - Custom dev, **$64/hour**
     - WordPress dev, **$84/hour**
-- ### UAT and QA, **$32/hour** 
+- ### UAT and QA, **$42/hour** 
 	- Max of 15 hours per week, per project
 - ### Support
 	- Negotiable depending on scale of project
-- ### Documentation creation, **$25/hour** 
-- ### Spec and requirements writing, **$32/hour**
+- ### Documentation creation, **$36/hour** 
+- ### Spec and requirements writing, **$36/hour**
 - ### Consultation, **$100/hour**
 	- First 3 project-hours are free
 
@@ -49,6 +49,6 @@ Realizing that budgets are tight, Eli is happy to work to an hourly cap, or maxi
 ***
 
 
-`Page last updated: 2019-01-31`
+`Page last updated: 2022-02-21`
 
 
